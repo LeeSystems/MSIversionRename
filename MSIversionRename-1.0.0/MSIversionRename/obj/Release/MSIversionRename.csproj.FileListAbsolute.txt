@@ -1,0 +1,8 @@
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\bin\Release\MSIversionRename.exe.config
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\bin\Release\MSIversionRename.exe
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\bin\Release\MSIversionRename.pdb
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Release\Interop.EnvDTE100.dll
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Release\Interop.WindowsInstaller.dll
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Release\MSIversionRename.csproj.ResolveComReference.cache
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Release\MSIversionRename.exe
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Release\MSIversionRename.pdb

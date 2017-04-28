@@ -1,0 +1,17 @@
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\obj\Debug\MSIversionRename.csprojResolveAssemblyReference.cache
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\obj\Debug\Interop.EnvDTE100.dll
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\obj\Debug\Interop.WindowsInstaller.dll
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\obj\Debug\MSIversionRename.csproj.ResolveComReference.cache
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\bin\Debug\MSIversionRename.exe.config
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\bin\Debug\MSIversionRename.exe
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\bin\Debug\MSIversionRename.pdb
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\obj\Debug\MSIversionRename.exe
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename\MSIversionRename\obj\Debug\MSIversionRename.pdb
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Debug\Interop.EnvDTE100.dll
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Debug\Interop.WindowsInstaller.dll
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Debug\MSIversionRename.csproj.ResolveComReference.cache
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Debug\MSIversionRename.exe
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\obj\Debug\MSIversionRename.pdb
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\bin\Debug\MSIversionRename.exe.config
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\bin\Debug\MSIversionRename.exe
+\\SRV-LEE00\development\LeeSystems\Apps\MSIversionRename\MSIversionRename-1.0.0\MSIversionRename\bin\Debug\MSIversionRename.pdb
